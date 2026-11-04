@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.vivis71.twa",
+        "sha256_cert_fingerprints": ["C7:0C:92:71:9D:4F:8E:14:07:9A:80:4A:EB:99:77:1E:22:37:D7:8D:4F:74:82:76:E7:1B:98:0D:15:25:3D:E5"]
+      }
+    }]
 
