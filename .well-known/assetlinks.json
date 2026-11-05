@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.vivis71.twa",
-        "sha256_cert_fingerprints": ["22:4B:80:6E:B7:8F:05:0F:43:8B:CF:51:44:C1:7C:92:9F:1F:62:AE:55:CE:09:3D:2A:58:93:47:1C:9E:B1:4E"]
+        "sha256_cert_fingerprints": ["ED:D0:70:37:A5:1E:8D:21:0E:BF:FE:FD:59:00:73:32:E4:4B:FE:4C:2F:87:CD:BC:C1:2A:78:4A:74:16:08:C7"]
       }
     }]
